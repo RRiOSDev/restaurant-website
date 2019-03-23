@@ -19,7 +19,7 @@
 	// Calculate suggested tip
 	function suggestedTip($price, $tip) {
 		$totalTip = $price * $tip;
-		echo money_format('%.2n', $totalTip);
+		echo sprintf('%.2n', $totalTip) . "\n";
 	}
 	
 ?>
