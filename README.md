@@ -1,1 +1,1 @@
-# Restaurant webiste created in PHP.
+# Restaurant website created for educational purposes written in PHP.
