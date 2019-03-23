@@ -84,7 +84,7 @@
 			}
 			
 			// Add the recipient email to a variable
-			$to	= "brad@brightsidestudios.ca";
+			$to	= "info@rrwebdesigner.com";
 			
 			// Create a subject
 			$subject = "$name sent a message via your contact form";
