@@ -1,0 +1,2 @@
+<h4>Chef Latina Website in PHP</h4>
+<h5>Copyright &copy;<?php echo date('Y');?> <a href="https://rrwebdesigner.com/" target="_blank">Chef Latina</a> of <a href="https://rrwebdesigner.com/" target="_blank">Chef Latina.com</a></h5>
